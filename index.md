@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <title>тут будут стили</title>
+  <link rel="stylesheet" type="text/css" href="https://github.com/llaita/llaita.github.io/blob/main/page%20style.css">
+  <link rel="stylesheet" type="text/css" href="https://github.com/llaita/llaita.github.io/blob/main/page%20style.css">
 </head>
  
 <body>
