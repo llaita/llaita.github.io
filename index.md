@@ -10,7 +10,7 @@
   <div class="conteiner">
     <div class="header">
       <div class="photo">
-        <img src="" />
+        <img src="https://github.com/llaita/llaita.github.io/blob/main/photo_2021-09-20_11-47-41.jpg"/>
       </div>
       <div class="author">
         <div class="info_box">
