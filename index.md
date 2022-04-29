@@ -37,17 +37,22 @@
       <p>
        Lugemine
      </p>
+     <p>
        Joonistamine
+     </p>
+     <p>
        Tabletop Roleplaying Games
-       
       </p>
+     <p>
       <h3>Töökogemus</h3>
       <hr>
       <p>
         AS SilSteve, Port of Sillamäe / Müügiassistent
-        
+      </p>
+      <p>
         Vagas OÜ / Turismi konsultant
         2009 - Jaanuar 2012,  Sillamäe
+      </p>
 
 
      
