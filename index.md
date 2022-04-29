@@ -33,7 +33,10 @@
       <hr>
       <p>
        Sport
+      </p>
+      <p>
        Lugemine
+     </p>
        Joonistamine
        Tabletop Roleplaying Games
        
@@ -54,12 +57,7 @@
         <li>
           <img src="//img/userpic.png" /><a href="mailto:aleksandra.kanzafarov@ut.ee">aleksandra.kanzafarova@ut.ee</a>
         </li>
-        <li>
-          <img src="//img/userpic.png" /><a href="tel:+1234567890">+372...</a>
-        </li>
       </ul>
- 
-    
  
   </div>
 </body>
