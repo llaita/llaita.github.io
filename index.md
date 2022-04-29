@@ -10,44 +10,49 @@
   <div class="conteiner">
     <div class="header">
       <div class="photo">
-        <img src="//************/uploads/160416/QMmsB89BlY_preview.jpg" />
+        <img src="" />
       </div>
       <div class="author">
         <div class="info_box">
           <h2>Aleksandra Kanzafarova</h2>
           <p>
-            <span>Student</span>
+            <span>Tudeng</span>
           </p>
         </div>
       </div>
     </div>
     <hr>
     <div class="skills">
-      <h3>Обо мне</h3>
+      <h3>Kes mina olen?</h3>
       <hr>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. At velit fuga debitis necessitatibus optio ab nostrum sit neque similique, laboriosam doloremque culpa aliquid. Beatae illum in, quasi iste inventore. At.
+        Olen Tartu Ülikooli Narva Kolledži programmi "Ettevõtlus ja digilahendused" 1 kursuse tudeng. 
+       
       </p>
-      <h3>Образование</h3>
+      <h3>Huvid</h3>
       <hr>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. At velit fuga debitis necessitatibus optio ab nostrum sit neque similique, laboriosam doloremque culpa aliquid. Beatae illum in, quasi iste inventore. At.
+       Sport
+       Lugemine
+       Joonistamine
+       Tabletop Roleplaying Games
+       
       </p>
-      <h3>Опыт работы</h3>
+      <h3>Töökogemus</h3>
       <hr>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. At velit fuga debitis necessitatibus optio ab nostrum sit neque similique, laboriosam doloremque culpa aliquid. Beatae illum in, quasi iste inventore. At.
-      </p>
-      <h3>Интересы</h3>
-      <hr>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. At velit fuga debitis necessitatibus optio ab nostrum sit neque similique, laboriosam doloremque culpa aliquid. Beatae illum in, quasi iste inventore. At.
-      </p>
+        AS SilSteve, Port of Sillamäe / Müügiassistent
+        
+        Vagas OÜ / Turismi konsultant
+        2009 - Jaanuar 2012,  Sillamäe
+
+
+     
       <h3>Kontakt</h3>
       <hr>
       <ul class="contacts">
         <li>
-          <img src="//img/userpic.png" /><a href="mailto:contact@inbox.com">@ut.ee</a>
+          <img src="//img/userpic.png" /><a href="mailto:aleksandra.kanzafarov@ut.ee">aleksandra.kanzafarova@ut.ee</a>
         </li>
         <li>
           <img src="//img/userpic.png" /><a href="tel:+1234567890">+372...</a>
