@@ -60,7 +60,7 @@
       <hr>
       <ul class="contacts">
         <li>
-          <img src="//img/userpic.png" /><a href="mailto:aleksandra.kanzafarov@ut.ee">aleksandra.kanzafarova@ut.ee</a>
+          <a href="mailto:aleksandra.kanzafarov@ut.ee">aleksandra.kanzafarova@ut.ee</a>
         </li>
       </ul>
  
